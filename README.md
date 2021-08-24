@@ -6,7 +6,7 @@
 
 ## TO view the full app
 
-## [CLick here]()
+## [CLick here](https://fuse-editor-online.netlify.app/)
 
 
 ## Screenshot of Fuse Editor
